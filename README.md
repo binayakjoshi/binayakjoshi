@@ -1,4 +1,4 @@
-# Hi, I'm [Binayak]! 👋
+# Hi, I'm Binayak! 👋
 
 I'm a student and a passionate **Full Stack Developer** with a focus on **MERN stack development**. I enjoy building projects, solving problems, and learning new technologies. Check out my repositories to see some of the work I've done!
 

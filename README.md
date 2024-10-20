@@ -12,7 +12,7 @@ I'm a student and a passionate **Full Stack Developer** with a focus on **MERN s
 
 
 ### 💬 **Get in Touch**
-- Email: [binayakj@pm.me](binayakj@pm.me)
+- Email: [binayakj@pm.me](mailto:binayakj@pm.me)
 - LinkedIn: [Binayak Joshi](https://www.linkedin.com/in/binayak-joshi-266203305/)
 
 ### 🤝 **Contributions**

@@ -4,8 +4,8 @@ I'm a student and a passionate **Full Stack Developer** with a focus on **MERN s
 
 ### 🔧 **Tech Stack**
 
-- **Languages**: JavaScript, Python , Java, SQl, C++
-- **Frameworks**: React,Express, NodeJs, Django
+- **Languages**: JavaScript, Python , Typescript, SQl, C++
+- **Frameworks**: React,Express, NodeJs
 - **Version Control**: Git & GitHub
 - **Other Tools**: Docker, Heroku, Netlify
 

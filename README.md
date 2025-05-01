@@ -7,7 +7,7 @@ I'm a student and a passionate **Full Stack Developer** with a focus on **MERN s
 - **Languages**: JavaScript, Python, Typescript, SQL, Java
 - **Frameworks**: React, Express, NextJS
 - **Version Control**: Git & GitHub
-- **Other Tools**: Docker, Heroku, Netlify, AWS
+- **Other Tools**: Heroku, Netlify, AWS
 
 
 

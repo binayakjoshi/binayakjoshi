@@ -4,10 +4,10 @@ I'm a student and a passionate **Full Stack Developer** with a focus on **MERN s
 
 ### 🔧 **Tech Stack**
 
-- **Languages**: JavaScript, Python, Typescript, SQL, Java
-- **Frameworks**: React, Express, NextJS
+- **Languages**: Typescript, JavaScript, Python, Java
+- **Frameworks**: NextJs, React, Express, Mongoose
 - **Version Control**: Git & GitHub
-- **Other Tools**: Heroku, Netlify, AWS
+- **Other Tools**: Heroku, Netlify, AWS, Render
 
 
 

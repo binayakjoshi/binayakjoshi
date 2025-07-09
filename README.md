@@ -1,11 +1,11 @@
 # Hi, I'm Binayak! 👋
 
-I'm a student and a passionate **Full Stack Developer** with a focus on **MERN stack development**. I enjoy building projects, solving problems, and learning new technologies. Check out my repositories to see some of the work I've done!
+I'm a student and a passionate **Full Stack Developer** with a focus on **NextJS & Typescript**. I enjoy building projects, solving problems, and learning new technologies. Check out my repositories to see some of the work I've done!
 
 ### 🔧 **Tech Stack**
 
 - **Languages**: Typescript, JavaScript, Python, Java
-- **Frameworks**: NextJs, React, Express, Mongoose
+- **Frameworks**: NextJs, React, Express
 - **Version Control**: Git & GitHub
 - **Other Tools**: Heroku, Netlify, AWS, Render
 

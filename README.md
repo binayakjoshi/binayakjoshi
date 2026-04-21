@@ -1,13 +1,13 @@
 # Hi, I'm Binayak! 👋
 
-I'm a student and a passionate **Full Stack Developer** with a focus on **NextJS & Typescript**. I enjoy building projects, solving problems, and learning new technologies. Check out my repositories to see some of the work I've done!
+I'm a student and a  **Full Stack Developer** with a focus on **Typescript**. I enjoy building projects, solving problems, and learning new technologies. Check out my repositories to see some of the work I've done!
 
 ### 🔧 **Tech Stack**
 
-- **Languages**: Typescript, JavaScript, Python, Java
-- **Frameworks**: NextJs, React, Express
+- **Languages**: Typescript, JavaScript, Python
+- **Frameworks**: NextJs ,NestJs, React, Express
 - **Version Control**: Git & GitHub
-- **Other Tools**: Heroku, Netlify, AWS, Render
+- **Other Tools**: Docker,Heroku, AWS, Render,nvim
 
 
 

@@ -5,9 +5,9 @@ I'm a student and a  **Full Stack Developer** with a focus on **Typescript**. I 
 ### 🔧 **Tech Stack**
 
 - **Languages**: Typescript, JavaScript, Python
-- **Frameworks**: NextJs ,NestJs, React, Express
+- **Frameworks**: NextJs ,NestJs, React, React-native, Express
 - **Version Control**: Git & GitHub
-- **Other Tools**: Docker,Heroku, AWS, Render,nvim
+- **Other Tools**: Docker, Heroku, AWS, Render, nvim
 
 
 
